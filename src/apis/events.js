@@ -6,7 +6,6 @@ export const fetchEvents = async () => {
 };
 
 export const storeEvent = async (event) => {
-  console.log("Envents.js-StoreEvent",event);
   return await fetch(`${baseURL}`, {
     method: "POST",
     headers: {

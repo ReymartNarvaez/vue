@@ -9,7 +9,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <HelloWorld msg="VueSchedule" />
       <nav class="nav-wrapper">
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/calender">Calender</RouterLink>
+        <RouterLink to="/calendar">Calendar</RouterLink>
         <RouterLink to="/options">Options</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
