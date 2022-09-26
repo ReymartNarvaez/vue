@@ -15,11 +15,14 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm install
 npm install -g json-server
+npm install --save @fullcalendar/vue3 @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @fullcalendar/interaction
 ```
 
 ### Json-server online
-json-server --watch data.json --port 3011
 
+```sh
+json-server --watch data.json --port 3011
+```
 
 ### Compile and Hot-Reload for Development
 
