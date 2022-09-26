@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Meeting",
+      "start": "2022-09-25T22:00:00.000Z",
+      "end": "2022-09-26T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "2",
+      "title": "Go to class",
+      "start": "2022-10-03T22:00:00.000Z",
+      "end": "2022-10-06T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "3",
+      "title": "Clean the house",
+      "start": "2022-09-25T22:00:00.000Z",
+      "end": "2022-09-26T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "4",
+      "title": "Test event",
+      "start": "2022-09-28T22:00:00.000Z",
+      "end": "2022-09-29T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "5",
+      "title": "Vue Schedule",
+      "start": "2022-09-30T22:00:00.000Z",
+      "end": "2022-10-01T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "12",
+      "title": "school",
+      "start": "2022-09-27T22:00:00.000Z",
+      "end": "2022-09-28T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "13",
+      "title": "school",
+      "start": "2022-09-27T22:00:00.000Z",
+      "end": "2022-09-28T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "14",
+      "title": "school",
+      "start": "2022-09-27T22:00:00.000Z",
+      "end": "2022-09-28T22:00:00.000Z",
+      "allDay": true
+    },
+    {
+      "id": "15",
+      "title": "möte",
+      "start": "2022-09-27T22:00:00.000Z",
+      "end": "2022-09-28T22:00:00.000Z",
+      "allDay": true
+    }
+  ]
+}
